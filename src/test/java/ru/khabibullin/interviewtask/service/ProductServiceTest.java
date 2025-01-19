@@ -1,4 +1,4 @@
-package ru.krasnovm.interviewtask.service;
+package ru.khabibullin.interviewtask.service;
 
 import khabibullin.interviewtask.service.ProductService;
 import org.junit.jupiter.api.BeforeEach;

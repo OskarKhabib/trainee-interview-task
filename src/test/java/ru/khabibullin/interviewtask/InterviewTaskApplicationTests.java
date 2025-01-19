@@ -1,4 +1,4 @@
-package ru.krasnovm.interviewtask;
+package ru.khabibullin.interviewtask;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
